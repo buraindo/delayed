@@ -3,7 +3,7 @@
 A small and simple delayed tasks management library
 
 [![go report card](https://goreportcard.com/badge/github.com/buraindo/delayed "go report card")](https://goreportcard.com/report/github.com/buraindo/delayed)
-[![test status](https://github.com/buraindo/delayed/workflows/tests/badge.svg?branch=master "test status")](https://github.com/buraindo/delayed/actions)
+[![test status](https://github.com/buraindo/delayed/workflows/Go/badge.svg?branch=master "test status")](https://github.com/buraindo/delayed/actions)
 [![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
