@@ -11,6 +11,11 @@ A small and simple delayed tasks management library
 * No external dependencies
 * Developer friendly
 
+## WIP
+
+* Repeating task every `t` units
+* Cancellation
+
 ## Install
 
 ```
